@@ -43,20 +43,22 @@
 <section id="products">
     <h2>Хиты продаж</h2>
     <div class="products">
-        <div class="product" data-title="ESMA Модель A" data-img="images/product1.jpg" data-desc="Подробное описание модели A. Характеристики, преимущества, гарантия." data-price="95 000 ₸">
+        <div class="product" data-title="ESMA Модель A" data-img="images/product1.jpg" data-desc="Подробное описание модели A. Характеристики, преимущества, гарантия." data-price=<a href="https://wa.me/7700XXXXXXX" class="cta-button">Узнать цену</a>
             <img src="images/product1.jpg" alt="ESMA Модель A">
             <h3>ESMA Модель A</h3>
-            <p><strong>95 000 ₸</strong></p>
+            <p><strong><a href="https://wa.me/7700XXXXXXX" class="cta-button">Узнать цену</a></strong></p>
         </div>
         <div class="product" data-title="ESMA Модель B" data-img="images/product2.jpg" data-desc="Подробное описание модели B." data-price="105 000 ₸">
             <img src="images/product2.jpg" alt="ESMA Модель B">
             <h3>ESMA Модель B</h3>
-            <p><strong>105 000 ₸</strong></p>
+            <p><strong><a href="https://wa.me/7700XXXXXXX" class="cta-button">Узнать цену</a>
+</strong></p>
         </div>
         <div class="product" data-title="ESMA Модель C" data-img="images/product3.jpg" data-desc="Подробное описание модели C." data-price="115 000 ₸">
             <img src="images/product3.jpg" alt="ESMA Модель C">
             <h3>ESMA Модель C</h3>
-            <p><strong>115 000 ₸</strong></p>
+            <p><strong><a href="https://wa.me/7700XXXXXXX" class="cta-button">Узнать цену</a>
+</strong></p>
         </div>
         <div class="product" data-title="ESMA Модель D" data-img="images/product4.jpg" data-desc="Подробное описание модели D." data-price="125 000 ₸">
             <img src="images/product4.jpg" alt="ESMA Модель D">
